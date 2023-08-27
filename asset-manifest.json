@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/learning-react-triqui/static/css/main.53680d3e.css",
-    "main.js": "/learning-react-triqui/static/js/main.2f892fb5.js",
-    "static/js/787.28cb0dcd.chunk.js": "/learning-react-triqui/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/learning-react-triqui/index.html",
-    "main.53680d3e.css.map": "/learning-react-triqui/static/css/main.53680d3e.css.map",
-    "main.2f892fb5.js.map": "/learning-react-triqui/static/js/main.2f892fb5.js.map",
-    "787.28cb0dcd.chunk.js.map": "/learning-react-triqui/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Learning-React-Triqui/static/css/main.53680d3e.css",
+    "main.js": "/Learning-React-Triqui/static/js/main.35a04d2f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Learning-React-Triqui/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Learning-React-Triqui/index.html",
+    "main.53680d3e.css.map": "/Learning-React-Triqui/static/css/main.53680d3e.css.map",
+    "main.35a04d2f.js.map": "/Learning-React-Triqui/static/js/main.35a04d2f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Learning-React-Triqui/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53680d3e.css",
-    "static/js/main.2f892fb5.js"
+    "static/js/main.35a04d2f.js"
   ]
 }
